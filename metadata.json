@@ -1,0 +1,14 @@
+{
+  "name": "s1rc0-perconadb",
+  "version": "0.1.0",
+  "author": "s1rc0",
+  "summary": "Puppet Module for managing PerconaDB",
+  "license": "Apache 2.0",
+  "source": "https://github.com/s1rc0/puppet-percona",
+  "issues_url": "https://github.com/s1rc0/puppet-percona/issues",
+  "project_page": "https://github.com/s1rc0/puppet-percona",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
